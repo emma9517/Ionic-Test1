@@ -1,0 +1,7 @@
+{
+  "name": "LiveInterface",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
