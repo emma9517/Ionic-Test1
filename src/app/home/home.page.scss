@@ -25,3 +25,14 @@
 #container a {
   text-decoration: none;
 }
+
+.layout_elements{
+  margin: auto;
+  padding-top: 10%;
+  padding-bottom: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+ion-content.background{
+  --background: url(../../assets/img/Splashscreen.png) 0 0/100% 100% no-repeat;
+}

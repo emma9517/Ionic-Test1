@@ -1,0 +1,54 @@
+.layout_elements{
+    margin: auto;
+    padding-top: 10%;
+    padding-bottom: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.back_arrow{
+    margin: auto;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.title{
+    font-size: 1em;
+}
+.text_centered{
+    text-align: center;
+}
+.bold_text{
+    color: black;
+    font-weight: bold;
+}
+.center_content{
+    margin: auto;
+    width: 50%;
+}
+.imgUser{
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+}
+.backbtn{
+    width: 32px;
+    height: 24px;
+}
+.alignToFather {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.paragraf{
+    font-size: 0.8125em;
+    font-family: 'Roboto';
+}
+.hbox{
+    display: inline;    
+}
+.checkbox{
+    --background-checked:#f85c4d; --border-color-checked:#f85c4d
+}
+.btnAction{
+    color: white;
+    background: #f85c4d !important;
+}
